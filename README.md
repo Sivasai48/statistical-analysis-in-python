@@ -7,9 +7,9 @@ Descriptive statistics (mean, median, mode, variance, etc.)
 Hypothesis testing (t-tests)
 Linear regression (single and multiple variables)
 Data visualization<br>
+
 Dataset Used<br>
 In this repository, we primarily work with a Heart Disease Prediction dataset, which contains various medical attributes such as:
-
 Age<br>
 Blood Pressure (BP)<br>
 Cholesterol<br>
@@ -22,6 +22,7 @@ EKG results<br>
 Thallium scan results<br>
 Sex<br>
 FBS over 120<br>
+
 Key Topics and Concepts<br>
 1. Descriptive Statistics<br>
 We calculate basic statistics like mean, median, mode, standard deviation, and variance to summarize the features in the dataset.<br>
@@ -33,11 +34,12 @@ We explore relationships between two or more variables using simple and multiple
 We extend the regression analysis to include multiple independent variables (e.g., Age, Cholesterol, Max HR) to predict blood pressure.<br>
 5. Data Visualization (without seaborn)<br>
 Using matplotlib, we visualize the relationships between variables and plot regression lines.<br>
+
 Further Reading<br>
-Pandas Documentation<br>
-Statsmodels Documentation<br>
-Matplotlib Documentation<br>
-SciPy Documentation<br>
-contact:
+Pandas <br>
+Statsmodels <br>
+Matplotlib <br>
+SciPy<br>
+contact:<br>
 EMAIL:paravadasivasai@gmail.com<br>
 LINKEDIN:www.linkedin.com/in/paravada-sivasai-12258224b
